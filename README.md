@@ -19,16 +19,16 @@ Abaixo segue a estrutura dele:
 
 ```json
 {
-  "mainFolder": string,  
-  "tempFileName": string,
-  "fromEmailAddress": string,
-  "fromEmailName": string,
-  "emailSubject": string,
-  "emailTextBody": string,  
-  "hiddenRedirectEmail": string,  
-  "serverHost": string,
-  "serverPort": int,
-  "emailPassword": string,
-  "standByTimeInMinutes": int
+  "mainFolder": "string",  
+  "tempFileName": "string",
+  "fromEmailAddress": "string",
+  "fromEmailName": "string",
+  "emailSubject": "string",
+  "emailTextBody": "string",  
+  "hiddenRedirectEmail": "string",  
+  "serverHost": "string",
+  "serverPort": "int",
+  "emailPassword": "string",
+  "standByTimeInMinutes": "int"
 }
 ```
